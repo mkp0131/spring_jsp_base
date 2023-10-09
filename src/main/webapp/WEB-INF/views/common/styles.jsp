@@ -1,0 +1,5 @@
+<style>
+    * {
+        background: red;
+    }
+</style>
